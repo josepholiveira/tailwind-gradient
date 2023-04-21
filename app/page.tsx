@@ -8,7 +8,7 @@ export default function Home() {
       <h1 className="text-2xl font-bold">Gradient border&bg cards</h1>
 
       <div className="grid grid-cols-1 lg:grid-cols-3 mt-4 gap-4">
-        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl [background-origin:border-box] overflow-hidden">
+        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl bg-origin-border overflow-hidden">
           <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-neutral-700">
             <h1 className="font-bold text-lg">Hello World</h1>
             <p>
@@ -19,7 +19,7 @@ export default function Home() {
             </p>
           </div>
         </div>
-        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl [background-origin:border-box] overflow-hidden">
+        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl bg-origin-border overflow-hidden">
           <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-neutral-700">
             <h1 className="font-bold text-lg">Hello World</h1>
             <p>
@@ -30,7 +30,7 @@ export default function Home() {
             </p>
           </div>
         </div>
-        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl [background-origin:border-box] overflow-hidden">
+        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl bg-origin-border overflow-hidden">
           <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-neutral-700">
             <h1 className="font-bold text-lg">Hello World</h1>
             <p>
@@ -41,7 +41,7 @@ export default function Home() {
             </p>
           </div>
         </div>
-        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl [background-origin:border-box] overflow-hidden">
+        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl bg-origin-border overflow-hidden">
           <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-neutral-700">
             <h1 className="font-bold text-lg">Hello World</h1>
             <p>
@@ -52,7 +52,7 @@ export default function Home() {
             </p>
           </div>
         </div>
-        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl [background-origin:border-box] overflow-hidden">
+        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl bg-origin-border overflow-hidden">
           <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-neutral-700">
             <h1 className="font-bold text-lg">Hello World</h1>
             <p>
@@ -63,7 +63,7 @@ export default function Home() {
             </p>
           </div>
         </div>
-        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl [background-origin:border-box] overflow-hidden">
+        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl bg-origin-border overflow-hidden">
           <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-neutral-700">
             <h1 className="font-bold text-lg">Hello World</h1>
             <p>
