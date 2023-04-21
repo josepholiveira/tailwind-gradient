@@ -9,29 +9,7 @@ export default function Home() {
 
       <div className="grid grid-cols-1 lg:grid-cols-3 mt-4 gap-4">
         <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl bg-origin-border overflow-hidden">
-          <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-emerald-500/20">
-            <h1 className="font-bold text-lg">Hello World</h1>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem
-              dolorum sapiente tempora ab eos itaque blanditiis temporibus autem
-              magni, ullam amet odio necessitatibus ipsam. Consequatur dolores
-              praesentium fugiat rem similique?
-            </p>
-          </div>
-        </div>
-        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl bg-origin-border overflow-hidden">
-          <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-teal-500/20">
-            <h1 className="font-bold text-lg">Hello World</h1>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem
-              dolorum sapiente tempora ab eos itaque blanditiis temporibus autem
-              magni, ullam amet odio necessitatibus ipsam. Consequatur dolores
-              praesentium fugiat rem similique?
-            </p>
-          </div>
-        </div>
-        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl bg-origin-border overflow-hidden">
-          <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-cyan-500/20">
+          <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-sky-500/20">
             <h1 className="font-bold text-lg">Hello World</h1>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem
@@ -53,7 +31,7 @@ export default function Home() {
           </div>
         </div>
         <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl bg-origin-border overflow-hidden">
-          <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-blue-500/20">
+          <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-sky-500/20">
             <h1 className="font-bold text-lg">Hello World</h1>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem
@@ -64,7 +42,29 @@ export default function Home() {
           </div>
         </div>
         <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl bg-origin-border overflow-hidden">
-          <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-indigo-500/20">
+          <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-sky-500/20">
+            <h1 className="font-bold text-lg">Hello World</h1>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem
+              dolorum sapiente tempora ab eos itaque blanditiis temporibus autem
+              magni, ullam amet odio necessitatibus ipsam. Consequatur dolores
+              praesentium fugiat rem similique?
+            </p>
+          </div>
+        </div>
+        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl bg-origin-border overflow-hidden">
+          <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-sky-500/20">
+            <h1 className="font-bold text-lg">Hello World</h1>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem
+              dolorum sapiente tempora ab eos itaque blanditiis temporibus autem
+              magni, ullam amet odio necessitatibus ipsam. Consequatur dolores
+              praesentium fugiat rem similique?
+            </p>
+          </div>
+        </div>
+        <div className="border border-transparent bg-gradient-to-b from-neutral-600 to-neutral-800 rounded-xl bg-origin-border overflow-hidden">
+          <div className="flex flex-col gap-2 p-4 bg-gradient-to-b from-neutral-800 to-sky-500/20">
             <h1 className="font-bold text-lg">Hello World</h1>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem
